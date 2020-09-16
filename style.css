@@ -1,0 +1,66 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  font-family: monospace;
+  background-color: #c0fdff;
+}
+
+h1 {
+  font-style: bold;
+  color: #ffcbf2;
+  ffont-family: cursive;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 2px 2px #5a189a;
+}
+.Activities {
+  color: #e5b3fe;
+  font-size: 40px;
+  text-shadow: 2px 2px #ff5d8f;
+}
+p1 {
+  font-size: 20px;
+  text-align: center;
+  color: #deaaff;
+  text-shadow: 2px 2px #ffff3f;
+}
+
+p2 {
+  font-size: 20px;
+  color: #deaaff;
+  text-shadow: 2px 2px #ffff3f;
+}
+
+p3 {
+  font-size: 20px;
+  color: #deaaff;
+  text-shadow: 2px 2px #ffff3f;
+}
+
+p4 {
+  font-size: 20px;
+  color: #deaaff;
+  text-shadow: 2px 2px #ffff3f;
+}
+
+p5 {
+  font-size: 20px;
+  color: #deaaff;
+  text-shadow: 2px 2px #ffff3f;
+}
+
+p6 {
+  font-size: 20px;
+  color: #deaaff;
+  text-shadow: 2px 2px #ffff3f;
+}
+
+.img-with-text {
+  text-align: justify;
+  width: [width of img];
+}
+
+.img-with-text img {
+  display: block;
+  margin: 0 auto;
+}
